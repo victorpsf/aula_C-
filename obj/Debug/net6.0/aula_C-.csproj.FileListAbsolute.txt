@@ -1,0 +1,15 @@
+/home/victor/source/aula_C-/bin/Debug/net6.0/aula_C-
+/home/victor/source/aula_C-/bin/Debug/net6.0/aula_C-.deps.json
+/home/victor/source/aula_C-/bin/Debug/net6.0/aula_C-.runtimeconfig.json
+/home/victor/source/aula_C-/bin/Debug/net6.0/aula_C-.dll
+/home/victor/source/aula_C-/bin/Debug/net6.0/ref/aula_C-.dll
+/home/victor/source/aula_C-/bin/Debug/net6.0/aula_C-.pdb
+/home/victor/source/aula_C-/obj/Debug/net6.0/aula_C-.csproj.AssemblyReference.cache
+/home/victor/source/aula_C-/obj/Debug/net6.0/aula_C-.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/source/aula_C-/obj/Debug/net6.0/aula_C-.AssemblyInfoInputs.cache
+/home/victor/source/aula_C-/obj/Debug/net6.0/aula_C-.AssemblyInfo.cs
+/home/victor/source/aula_C-/obj/Debug/net6.0/aula_C-.csproj.CoreCompileInputs.cache
+/home/victor/source/aula_C-/obj/Debug/net6.0/aula_C-.dll
+/home/victor/source/aula_C-/obj/Debug/net6.0/ref/aula_C-.dll
+/home/victor/source/aula_C-/obj/Debug/net6.0/aula_C-.pdb
+/home/victor/source/aula_C-/obj/Debug/net6.0/aula_C-.genruntimeconfig.cache
